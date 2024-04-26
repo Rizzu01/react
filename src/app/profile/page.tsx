@@ -124,7 +124,7 @@ export default function ProfilePage() {
               <option>Jaipur</option>
               <option>Delhi</option>
               <option>Indore</option>
-              <option>Ranchi</option>
+              <option>Ranchi1</option>
             </select>
           </div>
           <div className="mb-8">
