@@ -1,0 +1,91 @@
+@media (max-width: 1200px) {
+#bg-back{
+justify-content: center !important;
+}
+}
+
+
+@media (max-width: 992px){
+
+
+    aside.active{
+        width: 3rem;
+        padding-left: 0;
+    }
+
+    aside.active,.inctive{
+        position: fixed;
+    }
+}
+
+@media (max-width: 767px){
+    #bg-back .inner-form form h3 {
+        font-size: 50px;
+        
+    }
+
+    #bg-back .wel-p {
+        font-size: 18px;
+        font-weight: normal;
+    }
+
+    #bg-back .inner-form label {
+    
+        font-size: 15px;
+       
+    }
+}
+
+
+@media (max-width: 579px) { 
+    #bg-back .inner-form label {
+       
+        margin-top: 5px;
+        
+    }
+
+    #bg-back .inner-form form h3 {
+        font-size: 30px;
+        
+    }
+
+    #bg-back .wel-p {
+        font-size: 15px;
+        font-weight: normal;
+    }
+    #bg-back .inner-form label {
+    
+        font-size: 13px;
+       
+    }
+}
+
+
+
+/* @media (max-width: 579px) {
+    #bg-back .inner-form form {
+        padding: 15px;
+    }
+
+    #bg-back .inner-form form h3 {
+        font-size: 18px;
+    }
+
+    #bg-back .inner-form label {
+        font-size: 12px;
+    }
+
+    #bg-back .inner-form input {
+        height: 35px;
+        font-size: 10px;
+    }
+
+    #bg-back .inner-form button {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+    .l-btn{
+        font-size: 12px;
+    }
+   
+} */
